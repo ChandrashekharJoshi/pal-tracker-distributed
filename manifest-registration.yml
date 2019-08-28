@@ -2,7 +2,7 @@ applications:
 - name: tracker-registration
   path: ./applications/registration-server/build/libs/registration-server.jar
   routes:
-  - route: allocations-pal-ashish-chandrasekhar.cfapps.io
+  - route: allocations-pal-ashish-chandrasekhar-dell.cfapps.io
   memory: 1G
   instances: 1
   env:
